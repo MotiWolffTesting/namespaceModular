@@ -1,0 +1,14 @@
+/Users/mordechaywolff/Desktop/צבאות השם/8200 Training/Days/20-05-2025/namespaceTest/bin/Debug/net9.0/namespaceTest
+/Users/mordechaywolff/Desktop/צבאות השם/8200 Training/Days/20-05-2025/namespaceTest/bin/Debug/net9.0/namespaceTest.deps.json
+/Users/mordechaywolff/Desktop/צבאות השם/8200 Training/Days/20-05-2025/namespaceTest/bin/Debug/net9.0/namespaceTest.runtimeconfig.json
+/Users/mordechaywolff/Desktop/צבאות השם/8200 Training/Days/20-05-2025/namespaceTest/bin/Debug/net9.0/namespaceTest.dll
+/Users/mordechaywolff/Desktop/צבאות השם/8200 Training/Days/20-05-2025/namespaceTest/bin/Debug/net9.0/namespaceTest.pdb
+/Users/mordechaywolff/Desktop/צבאות השם/8200 Training/Days/20-05-2025/namespaceTest/obj/Debug/net9.0/namespaceTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mordechaywolff/Desktop/צבאות השם/8200 Training/Days/20-05-2025/namespaceTest/obj/Debug/net9.0/namespaceTest.AssemblyInfoInputs.cache
+/Users/mordechaywolff/Desktop/צבאות השם/8200 Training/Days/20-05-2025/namespaceTest/obj/Debug/net9.0/namespaceTest.AssemblyInfo.cs
+/Users/mordechaywolff/Desktop/צבאות השם/8200 Training/Days/20-05-2025/namespaceTest/obj/Debug/net9.0/namespaceTest.csproj.CoreCompileInputs.cache
+/Users/mordechaywolff/Desktop/צבאות השם/8200 Training/Days/20-05-2025/namespaceTest/obj/Debug/net9.0/namespaceTest.dll
+/Users/mordechaywolff/Desktop/צבאות השם/8200 Training/Days/20-05-2025/namespaceTest/obj/Debug/net9.0/refint/namespaceTest.dll
+/Users/mordechaywolff/Desktop/צבאות השם/8200 Training/Days/20-05-2025/namespaceTest/obj/Debug/net9.0/namespaceTest.pdb
+/Users/mordechaywolff/Desktop/צבאות השם/8200 Training/Days/20-05-2025/namespaceTest/obj/Debug/net9.0/namespaceTest.genruntimeconfig.cache
+/Users/mordechaywolff/Desktop/צבאות השם/8200 Training/Days/20-05-2025/namespaceTest/obj/Debug/net9.0/ref/namespaceTest.dll
