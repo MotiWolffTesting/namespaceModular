@@ -13,3 +13,11 @@
 - Namespace: LibraryManagement.User
 
 ### Loan
+- Responsibility: Handling books loaning and returning, including checking delays
+- Module: LibraryManagement.LoanModule
+- Namespace:: LibraryManagement.Loan
+
+### Notification
+- Responsibility: Displaying notifications about delays, calculating delayes times, showing summaries
+- Module: LibraryManagement.NotificationModule
+- Namespace: LibraryManagement.Notification
